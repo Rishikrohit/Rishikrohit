@@ -1,8 +1,3 @@
-### Namaste 👋
-
-I'm Rohit, an aspiring Data Analyst.
-
-![Profile views](https://komarev.com/ghpvc/?username=Rishikrohit&color=2563EB&style=flat&label=Profile+views)
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kavhale-kumar121078)
