@@ -26,6 +26,7 @@
 
 ---
 
+
 ### Soft Skills:
 ![Communication](https://img.shields.io/badge/-Communication-64748B?style=flat)
 ![Leadership](https://img.shields.io/badge/-Leadership-64748B?style=flat)
