@@ -24,6 +24,9 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=Rishikrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rishikrohit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### Soft Skills:
 ![Communication](https://img.shields.io/badge/-Communication-64748B?style=flat)
 ![Leadership](https://img.shields.io/badge/-Leadership-64748B?style=flat)
